@@ -1,7 +1,5 @@
 <?php
 
-use Test\BaseClass\BaseConnection;
-
 final class HttpTest extends BaseConnection
 {
 
